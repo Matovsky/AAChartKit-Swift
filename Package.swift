@@ -11,7 +11,8 @@
       ],
       targets: [
          .target(
-                name: "AAInfographics"
+                name: "AAInfographics",
+                path: "AAInfographics"
          )
       ]
   )
